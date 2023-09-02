@@ -1,0 +1,34 @@
+
+body{
+    background-color:#4ae8f36a
+
+}
+h1{
+    margin:20px;
+    font-size:25px;
+}
+img{
+   
+    width:200px;
+    height:200px;
+    border:2px solid black;
+    margin:20px;
+    margin-bottom:0px;
+    border-radius: 50%;
+    
+}
+span{
+    font-weight: bolder;
+}
+.heads{
+    font-size:30px
+}
+p{
+    margin:30px;
+    font-size: 17px;
+}
+li{
+    font-size:17px;
+    margin:0px;
+
+}
